@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/angular-ui/ui-grid.git"
+    "url": "https://github.com/bozkan/angular-ui-grid-sbet.git"
   },
   "homepage": "http://ui-grid.info",
   "bugs": {
@@ -35,5 +35,5 @@
     "data grid"
   ],
   "license": "MIT",
-  "version": "1.0.0"
+  "version": "1.0.2"
 }
